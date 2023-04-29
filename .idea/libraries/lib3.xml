@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Lesson_2/out/artifacts/Lesson_2_Web_exploded/WEB-INF/lib/javax.servlet.jsp-api-2.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Lesson_2/out/artifacts/Lesson_2_Web_exploded/WEB-INF/lib/jakarta.servlet-api-6.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
